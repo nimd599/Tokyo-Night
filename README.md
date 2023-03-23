@@ -1,15 +1,4 @@
 # IMPORTANT! THIS THEME IS NOT ACTIVELY MAINTAINED ANYMORE BECAUSE IM NOT INTERESTED ON DISCORD THEMING ANYMORE, FORK AND PRs ARE STILL APPRECIATED AND WELCOMED!
-<h1 align="center">Tokyo Night</h1>
-
-![](https://github.com/Dyzean/Tokyo-Night/blob/main/assets/preview.png?raw=true)
-
-<p align="center">A clean, dark, Discord theme based on <a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo Night</a> colorscheme.</p>
-
----
-
-## Installation
-
-### BetterDiscord
 
 1. Download the theme file [here](https://betterdiscord.app/Download?id=439)
 2. Place it in the BetterDiscord themes folder
